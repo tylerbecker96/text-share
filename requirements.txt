@@ -1,0 +1,1 @@
+pycairo PyGObject webview pyqt5
